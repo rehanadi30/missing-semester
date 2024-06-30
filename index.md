@@ -4,26 +4,18 @@ title: The Missing Semester of Your CS Education
 nositetitle: true
 ---
 
-Classes teach you all about advanced topics within CS, from operating systems
-to machine learning, but there’s one critical subject that’s rarely covered,
-and is instead left to students to figure out on their own: proficiency with
-their tools. We’ll teach you how to master the command-line, use a powerful
-text editor, use fancy features of version control systems, and much more!
+Kelas-kelas ini mengajarkan Anda semua tentang topik-topik tingkat lanjut dalam Ilmu Komputer, mulai dari _operating system_ hingga _machine learning_, tetapi ada satu topik penting yang jarang dibahas,
+dan sering kali diserahkan kepada siswa untuk mencari tahu sendiri: kemahiran dengan
+dengan kakas mereka. Kami akan mengajarkan Anda cara menguasai _command line_, menggunakan
+editor teks yang kuat, menggunakan fitur-fitur canggih dari sistem kontrol versi (_version control system_), dan banyak lagi!
 
-Students spend hundreds of hours using these tools over the course of their
-education (and thousands over their career), so it makes sense to make the
-experience as fluid and frictionless as possible. Mastering these tools not
-only enables you to spend less time on figuring out how to bend your tools to
-your will, but it also lets you solve problems that would previously seem
-impossibly complex.
+Siswa menghabiskan ratusan jam menggunakan alat-alat ini selama masa pendidikan mereka
+pendidikan mereka (dan ribuan selama karir mereka), jadi masuk akal untuk membuat
+pengalaman yang lancar dan tanpa hambatan. Menguasai alat-alat ini tidak
+tidak hanya memungkinkan Anda menghabiskan lebih sedikit waktu untuk mencari tahu cara membengkokkan alat Anda keinginan Anda, tetapi juga memungkinkan Anda memecahkan masalah yang sebelumnya tampak
+yang sebelumnya tampak sangat rumit.
 
-Read about the [motivation behind this class](/about/).
-
-{% comment %}
-# Registration
-
-Sign up for the IAP 2020 class by filling out this [registration form](https://forms.gle/TD1KnwCSV52qexVt9).
-{% endcomment %}
+Baca mengenai [motivasi hadirnya kelas ini](/about/).
 
 # Schedule
 
@@ -56,10 +48,10 @@ YouTube](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57
 **Staff**: This class is co-taught by [Anish](https://www.anishathalye.com/), [Jon](https://thesquareplanet.com/), and [Jose](http://josejg.com/).<br>
 **Questions**: Email us at [missing-semester@mit.edu](mailto:missing-semester@mit.edu).
 
-# Beyond MIT
+# Selain MIT
 
-We've also shared this class beyond MIT in the hopes that others may
-benefit from these resources. You can find posts and discussion on
+Kami juga telah membagikan kelas ini di luar MIT dengan harapan orang lain dapat
+mendapatkan manfaat dari sumber daya ini. Anda dapat menemukan tulisan dan berdiskusi di
 
  - [Hacker News](https://news.ycombinator.com/item?id=22226380)
  - [Lobsters](https://lobste.rs/s/ti1k98/missing_semester_your_cs_education_mit)
@@ -69,7 +61,7 @@ benefit from these resources. You can find posts and discussion on
  - [YouTube](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)
 
 {% comment %}
-Some more URLs:
+Lihat URL lainnya:
 
 - https://news.ycombinator.com/item?id=27154577
 - https://news.ycombinator.com/item?id=34934216
@@ -81,7 +73,7 @@ Some more URLs:
 - https://twitter.com/MIT_CSAIL/status/1581313961093484545
 {% endcomment %}
 
-# Translations
+# Terjemahan
 
 - [Chinese (Simplified)](https://missing-semester-cn.github.io/)
 - [Chinese (Traditional)](https://missing-semester-zh-hant.github.io/)
@@ -98,21 +90,19 @@ Some more URLs:
 - [Persian](https://missing-semester-fa.github.io/)
 - [German](https://missing-semester-de.github.io/)
 - [Bengali](https://missing-semester-bn.github.io/)
+- [Indonesia](https://missing-semester-id.github.io/)
 
-Note: these are external links to community translations. We have not vetted
-them.
+Catatan: ini adalah tautan eksternal ke terjemahan komunitas. Kami tidak memastikan secara seksama.
 
-Have you created a translation of the course notes from this class? Submit a
-[pull request](https://github.com/missing-semester/missing-semester/pulls) so
-we can add it to the list!
+Apakah Anda membuat terjemahan dari kelas ini? 
+Kirimkan [pull request](https://github.com/missing-semester/missing-semester/pulls) sehingga kami dapat menambahkannya ke dalam daftar!
 
-## Acknowledgements
+## Ucapan Terima Kasih
 
-We thank Elaine Mello, Jim Cain, and [MIT Open
-Learning](https://openlearning.mit.edu/) for making it possible for us to
-record lecture videos; Anthony Zolnik and [MIT
-AeroAstro](https://aeroastro.mit.edu/) for A/V equipment; and Brandi Adams and
-[MIT EECS](https://www.eecs.mit.edu/) for supporting this class.
+Kami berterima kasih kepada Elaine Mello, Jim Cain, dan [MIT Open Learning](https://openlearning.mit.edu/) yang telah memungkinkan kami untuk
+merekam video kuliah; Anthony Zolnik dan [MIT
+AeroAstro](https://aeroastro.mit.edu/) untuk peralatan A/V; dan Brandi Adams dan
+[MIT EECS](https://www.eecs.mit.edu/) yang telah mendukung kelas ini.
 
 ---
 
